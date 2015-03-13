@@ -10,7 +10,8 @@ This project provides two latex templates for Chinese and English thesis writing
 For unicode support, templates are written in XeLaTeX.
 
 # How to Build
-```xelatex my_ntust_thesis.tex
+```shell
+xelatex my_ntust_thesis.tex
 ```
 
 If you need more details, there are helpful manual in the original author's website and the project site (in Chinese).
