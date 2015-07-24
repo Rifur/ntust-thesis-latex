@@ -1,6 +1,6 @@
 \contentsline {chapter}{論文摘要}{I}
 \contentsline {chapter}{Abstract}{II}
-\contentsline {chapter}{誌謝}{III}
+\contentsline {chapter}{謝誌}{III}
 \contentsline {chapter}{目錄}{IV}
 \contentsline {chapter}{圖目錄}{V}
 \contentsline {chapter}{表目錄}{VI}
